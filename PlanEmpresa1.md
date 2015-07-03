@@ -73,12 +73,7 @@ la idea.
    **N.I.F.:** 53621436A // **Fecha de nacimiento:** 01/09/1985   
    **Domicilio:** c/virgen de loreto 10, bajo A.  // **C.P.:** 28220    
    **Población:** Majadahonda. // **Provincia:** Madrid. // **País:** España.
-   
-   **Nombre:** Siomara // **Apellidos:** Vallejos Holguin    
-   **N.I.F.:** Y0343085P  // **Fecha de nacimiento:** 08/02/1985   
-   **Domicilio:** c/Tomás Gil 10, 2ºD  // **C.P.:** 28693     
-   **Población:** Quijorna  // **Provincia:** Madrid // **País:** España.
-
+  
 ###**2.2. Breve historial profesional de los promotores:**
 
 ####**Belen Malo Ramírez**
